@@ -1,0 +1,15 @@
+body {
+     background-color: #faffff;
+}
+
+
+h1 {
+    color: #042a51;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.banner-img {
+    width: 100%;
+}
