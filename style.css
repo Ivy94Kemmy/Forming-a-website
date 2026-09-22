@@ -9,7 +9,7 @@ header {
   position: center;
   justify-content: center;
   align-items: center;
-  background-color: #bdf4f5;
+  background-color: #f6f8f8;
   color: #fcfcfc;
   padding: 10px;
   font-size: 20px;
@@ -27,7 +27,7 @@ header img {
 
 header nav a {
   justify-content: space-between;  
-  color: #0f0e0e;
+  color: #070707;
   text-decoration: none;
   margin-right: 200px;
 }
@@ -35,19 +35,21 @@ header nav a {
 body {
   font-family: Archivo Black regular, sans-serif;
   background-color: #f4f4f4;
-  color: #333;
+  color: #000000;
   line-height: 1.6;
 }
 h1, h2 {
   padding: 10px;
+  font-size: 40px;
+  font-family: Nimbus Roman No9 L regular, sans-serif;
 }
 
 .welcome {
-  background-color: #bdf4f5;
-  color: #0f0e0e;
+  background-color: #f3f3f3;
+  color: #a33d3d;
   padding: 20px;
   justify-content: center;
-  text-align: center;
+  align-items: center;
 }
 
 .banner-img {
