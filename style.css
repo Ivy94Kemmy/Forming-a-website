@@ -9,7 +9,7 @@ header {
   position: center;
   justify-content: center;
   align-items: center;
-  background-color: #f6f8f8;
+  background-color: #391f02;
   color: #fcfcfc;
   padding: 10px;
   font-size: 20px;
@@ -27,7 +27,7 @@ header img {
 
 header nav a {
   justify-content: space-between;  
-  color: #070707;
+  color: #f8f6f6;
   text-decoration: none;
   margin-right: 200px;
 }
@@ -65,4 +65,13 @@ h1, h2 {
 p {
   padding: 10px;
   text-align: left;
+}
+
+.tropic {
+  width: 1400px;
+  height: 500px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
 }
